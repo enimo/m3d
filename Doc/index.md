@@ -1,6 +1,23 @@
-## 简介
+# 简介
 
 一个帮助web开发者，管理开发环境（非搭建开发环境），并优化FE代码的平台
+
+# 开发
+
+git: http://gitlab.baidu.com/zoujiawei/m3d http://gitlab.baidu.com/zoujiawei/m3d.git
+
+开发机：`ssh bae@cp01-ting-test01.cp01.baidu.com`
+
+samba:
+* ip: 10.94.37.21
+* user: bae
+* passwd: 123456
+* dir: m3d
+
+一般通过samba映射到本地开发，然后再开发机上提交到git
+
+
+# 安装
 
 ## 环境要求
 
